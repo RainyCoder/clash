@@ -1,0 +1,8 @@
+# 内容：OpenAi Bard anthropic
+# 域名关键字匹配
+# DOMAIN-KEYWORD,openai
+# DOMAIN-KEYWORD,anthropic
+# DOMAIN-KEYWORD,Claude
+# IP匹配
+IP-CIDR,123.57.81.197/32
+IP-CIDR,121.37.47.126/32

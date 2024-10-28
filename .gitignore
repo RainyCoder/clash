@@ -1,0 +1,15 @@
+/.idea
+/.vscode
+/vendor
+*.log
+*.htaccess
+/public/*.htaccess
+.env
+composer.phar
+composer.lock
+.DS_Store
+Thumbs.db
+/.settings
+/.buildpath
+/.project
+/.history
